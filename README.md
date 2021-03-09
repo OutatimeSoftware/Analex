@@ -623,4 +623,4 @@ Compilación exitosa
 
 ### Integrantes
 
-Proyecto para la materia de *Teoría de la Computación*, elaborado por **Mario Chan**, **Jorge Reyes**, **Miguel R. Ávila**, **Israel Cruz Morales** y **Joel Ivan Ruiz Blanco**
+Proyecto para la materia de *Estructura de Datos*, elaborado por **Mario Chan**, **Jorge Reyes**, **Miguel R. Ávila**, **Israel Cruz Morales** y **Joel Ivan Ruiz Blanco**
