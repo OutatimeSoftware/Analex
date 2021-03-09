@@ -33,6 +33,8 @@ python src/app.py [nombreDelPrograma.mio]
 
 Entre las consideraciones que se deben tomar en cuenta, al final de cada programa la última linea debe estar vacia para que el programa funcione.
 
+> Aqui pueden leer la documentación inical: 
+
 ### Casos de uso
 
 ##### Caso 1
