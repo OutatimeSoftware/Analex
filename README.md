@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imreyesjorge/TC-Analex/master/assets/header.png">
+  <img src="https://raw.githubusercontent.com/OutatimeSoftware/Analex/main/assets/header.png">
 </p>
 
 - [Mio](#)
