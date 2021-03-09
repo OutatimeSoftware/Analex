@@ -4,8 +4,6 @@
 </div>
 
 <br>
-<br>
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/imreyesjorge/TC-Analex/master/assets/header.png">
@@ -625,4 +623,4 @@ Compilación exitosa
 
 ### Integrantes
 
-Proyecto para la materia de *Teoría de la Computación*, elaborado por **Jorge Reyes**, **Mario Chan** y **Miguel R. Ávila**.
+Proyecto para la materia de *Teoría de la Computación*, elaborado por **Mario Chan**, **Jorge Reyes**, **Miguel R. Ávila**, **Israel Cruz Morales** y **Joel Ivan Ruiz Blanco**
