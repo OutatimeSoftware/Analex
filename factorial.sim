@@ -1,0 +1,11 @@
+IDS
+Contador, ID01
+VarCont, ID02
+
+TXT
+"Es igual a 10", TX01
+"No sabes contar", TX02
+
+VAL
+1, 1
+10, 8
